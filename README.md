@@ -1,7 +1,5 @@
 # This is just a template for vite with tailwindcss configured.
 
----
-
 # Getting started
 
 1. Clone this repo.
